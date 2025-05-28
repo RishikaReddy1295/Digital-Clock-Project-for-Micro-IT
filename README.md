@@ -1,4 +1,4 @@
 # Digital-Clock-Project-for-Micro-IT
 
-[View digitalclock.html](./digitalclock.html)
+[View digital clock.html](./digital clock.html)
   
